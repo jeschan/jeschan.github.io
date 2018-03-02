@@ -30,7 +30,6 @@ p {
 }
 
 .img-circle {
-    width: 25%;
     border-radius: 75%;
     float: right;
 }
