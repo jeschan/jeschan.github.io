@@ -32,7 +32,7 @@ p {
 .img-circle {
     width: 50%;
     border-radius: 75%;
-    float: left;
+    float: right;
 }
 
 footer {
