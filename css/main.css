@@ -2,13 +2,13 @@
 .img-circle {
     width: 250px;
     height: 250px;
-    border-radius: 25%;
+    border-radius: 50%;
 }
 
 body {
     margin: 30px auto;
     width: 90%;
-    background-color: pink;
+    background-color: #ffdacc;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
